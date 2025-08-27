@@ -3,3 +3,4 @@ Include front-end, back-end and database.
 Front-end consists of HTML, CSS, Bootstrap, JS
 Back-end consists of C#.
 Database consists of Microsoft SQL Server Management Studio.
+Real-time status update. Each status will be updates in 24 hours. 
